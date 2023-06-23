@@ -78,7 +78,7 @@ header nav ul li a:hover {
 font-style: italic;
 font-size: 25px;
 color: var(--secondary-color);
-margin-top: 300px; 
+margin-top: 200px; 
 text-align: right; 
 
 } 
@@ -97,9 +97,9 @@ text-align: right;
   margin: 2px;
   border-radius: 8px; 
 }
-/* .photo:hover {
+ .photo:hover {
   background-color: var(--primary-color);
-} */
+} 
 /* Creating work image, title, color and so on */
 section {
   display: flex;
@@ -115,29 +115,30 @@ section {
   display: flex;
 }
 .section-title {
-  font-size: 35px;
+  font-size: 30px;
   /* display: flex; */
   display: inline-block;
   border-right: 4px solid;
-  margin-right: 30px;
+  /* margin-right: 30px; */
   color: var(--primary-color);
-  text-align: right;
-  padding: 30px;
-  flex-basis: 150px; 
+  text-align: center;
+  /* padding: 20px; */
+  flex-basis: 140px; 
 }
 .primary-border {
   border-color: var(--primary-color);
 }
-/* .work-done {
-/* display: flex;
+.work-done {
+display: flex;
 flex-wrap: wrap;
-flex: 0 0 66%;  */
-
+flex: 0 0 66%;  
+ }
 #work-flex{
 display: flex;
 flex-wrap: wrap;
-justify-content: space-between;
-}
+ }
+/* justify-content: space-evenly; */
+
 .item-detail{
 position: relative;
 margin: 2px;
@@ -169,7 +170,8 @@ border: 5px solid var(--tertiary-color);
 } 
   /*creating contact information  */
 .step-info{
-  flex :2 20%;
+  flex :1 2 300px;
+  /* flex :2 20%; */
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -195,8 +197,9 @@ border: 5px solid var(--tertiary-color);
   border-bottom: 3px solid;
   padding-bottom: 2px;
 }
-.contact-info:hover  {
-  background-color: var(--secondary-color);
+.contact-info ul li a:hover  {
+  /* background-color: var(--secondary-color); */
+  color: var(--primary-color);
 }
 /*using CSS Typography */
 /* give it square bullet points, and assign font family to monospace  */
