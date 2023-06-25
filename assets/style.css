@@ -251,11 +251,11 @@ border: 5px solid var(--tertiary-color);
     padding: 30px 15px;
     text-align: center;
   }
-  .details {
+  .item-detail {
       flex-direction: column;
   }
   .section-title {
-      font-size: 48px;
+      font-size: 30px;
       text-align: center;
       flex-direction: column;
       border-bottom: 5px solid;
@@ -272,7 +272,7 @@ border: 5px solid var(--tertiary-color);
   .photo {
       justify-content: center;
   }
-  .details {
+  .item-detail {
     flex: 2 100%;
     text-align: left;
     justify-content: left;
