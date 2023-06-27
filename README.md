@@ -32,6 +32,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Deployed Application Link
 
+https://farjana-04.github.io/portfolio-for-web-developer/
+
 
 
 
