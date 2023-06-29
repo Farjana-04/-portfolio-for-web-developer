@@ -1,4 +1,5 @@
 # Portfolio for web developer
+![Farjana Akhter Portfolio - Screenshot](https://github.com/Farjana-04/portfolio-for-web-developer/assets/92415181/62cf75c0-c167-48fe-ac95-89b18e21e00c)
 
 
 ## User Story
