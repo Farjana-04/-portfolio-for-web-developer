@@ -4,7 +4,7 @@
 
 A Web Development Portfolio can showcase candidate skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights candidates' strongest work as well as the thought processes behind it. Applying the core skills I've recently learned: flexbox, media queries, and CSS variables.
 
-![Portfolio](https://github.com/Farjana-04/portfolio-for-web-developer/assets/92415181/5b69ab31-dac2-4503-9ec9-57c46c24fa83)
+![Portfolio](https://github.com/Farjana-04/portfolio-for-web-developer/assets/92415181/bc455a06-408a-459f-b763-251eb3dc1ff7)
 
 
 ## User Story
@@ -39,7 +39,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Deployed Application Link
 
 https://farjana-04.github.io/portfolio-for-web-developer/
-
 
 
 
