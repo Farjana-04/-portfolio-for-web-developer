@@ -36,6 +36,27 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Username](#username)
+- [Email](#email)
+
+## Usage
+Follow the examples on my repo.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contribute
+No contributes
+
+## Tests
+Testing is not required
+
 ## Deployed Application Link
 
 https://farjana-04.github.io/portfolio-for-web-developer/
